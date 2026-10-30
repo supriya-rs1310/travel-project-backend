@@ -1,4 +1,4 @@
-# Travel Project Backend
+# Travel Management System Project Backend
 
 This is the Spring Boot backend for the Travel Project.
 
